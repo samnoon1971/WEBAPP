@@ -75,3 +75,15 @@ body{
 .bg-mati{
     background-color: #923d66 !important;
 }
+
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
