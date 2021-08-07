@@ -59,13 +59,13 @@ It was developed as part of web developement sessional course
 Clone the project
 
 ```bash
-  git clone https://github.com/samnoon1971/ServerV2
+  git clone https://github.com/samnoon1971/WEBAPP
 ```
 
 Go to the project directory
 
 ```bash
-  cd BAIUSTServerV3
+  cd WEBAPP
 ```
 
 Install dependencies
